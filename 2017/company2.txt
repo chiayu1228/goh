@@ -1,0 +1,9 @@
+﻿欣伯國際,http://www.keeper.com.tw,images/logo/logo4.png
+PHILIPS,https://www.philips.com.tw,images/logo/logo5.png
+momo購物網,https://www.momoshop.com.tw,images/logo/logo6.png
+friday購物,http://shopping.friday.tw,images/logo/logo7.png
+大地天然,http://www.geginseng.com,images/logo/logo8.png
+李記,http://www.5440.com.tw,images/logo/logo9.png
+葉大雄,http://www.qqbear.com.tw,images/logo/logo10.png
+亞瑪勁線上購物,http://www.amz.tw,images/logo/logo11.png
+瘋狂五折天,http://www.facebook.com/wuchetien,images/logo/logo12.png

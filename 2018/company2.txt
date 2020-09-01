@@ -1,0 +1,3 @@
+﻿奇摩超級商城,https://tw.mall.yahoo.com,images/logo/logo13.png
+momo購物網,https://www.momoshop.com.tw,images/logo/logo6.png
+friDay購物,http://shopping.friday.tw,images/logo/logo7.png

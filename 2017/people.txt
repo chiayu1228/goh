@@ -1,0 +1,9 @@
+﻿許常德,images/artist/artist1.png,https://zh-tw.facebook.com/許常德的地下手記-134264889922819/
+劉柏君,images/artist/artist2.png,https://zh-tw.facebook.com/sophiyah.liu
+官靈芝,images/artist/artist3.png,https://zh-tw.facebook.com/%E5%AE%98%E9%9D%88%E8%8A%9D-10150099215335455/
+林炳存,images/artist/artist4.png,https://zh-tw.facebook.com/LinBingCun/
+徐曉晰,images/artist/artist5.png,https://zh-tw.facebook.com/openmindlove/
+茱莉Julie's,images/artist/artist6.png,https://zh-tw.facebook.com/julie1031/
+荒山亮,images/artist/artist7.png,https://zh-tw.facebook.com/HuangShanLiang/
+陳子鴻,images/artist/artist8.png,https://zh-tw.facebook.com/ChenZiHong/
+郭鑫,images/artist/artist9.png,https://www.facebook.com/KUOSHIN0131/
